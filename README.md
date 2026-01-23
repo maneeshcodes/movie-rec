@@ -6,7 +6,7 @@ A full-stack movie recommendation system that helps users discover movies theyâ€
 
 ## ðŸš€ Live Demo
 
-- **Frontend (Streamlit):** https://movie-rec-gan7fcdzylskgcfjzsmy.streamlit.app  
+- **Frontend (Streamlit):** https://movie-rec-gan7fcdyzklslgcfjzsbmy.streamlit.app/?view=home  
 - **Backend API (FastAPI):** https://movie-rec-g56g.onrender.com/docs
 
 ---
