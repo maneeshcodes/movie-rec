@@ -23,6 +23,16 @@ A full-stack movie recommendation system that helps users discover movies they�
 
 ---
 
+## 🚀 Project Highlights
+
+- Built an end-to-end full-stack ML application
+- Implemented TF-IDF cosine similarity recommendation engine
+- Integrated TMDB API for real-time movie metadata and posters
+- Deployed backend on Render and frontend on Streamlit Cloud
+- Optimized performance using caching for faster responses
+
+  
+
 ## 🛠️ Tech Stack
 
 ### Backend
